@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f876aec4-9bf9-4e30-bce4-3d2bf1d09f16/resourceGroups/VOTAPP-rg/providers/Microsoft.Web/sites/VOT-WEB-APP",
+    "appService.deploySubpath": "."
+}
